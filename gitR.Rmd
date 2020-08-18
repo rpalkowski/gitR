@@ -45,3 +45,8 @@ plot(cars$speed, col = "blue", pch = 5, lwd = 3)
 
 ## Third chunk
 
+```{r}
+plot(mtcars$hp, col = "green", pch = 20, lwd = 5)
+```
+
+

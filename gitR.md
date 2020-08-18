@@ -49,3 +49,9 @@ plot(cars$speed, col = "blue", pch = 5, lwd = 3)
 ![](gitR_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 ## Third chunk
+
+``` r
+plot(mtcars$hp, col = "green", pch = 20, lwd = 5)
+```
+
+![](gitR_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
