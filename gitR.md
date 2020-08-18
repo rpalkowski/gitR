@@ -37,3 +37,13 @@ plot(mtcars$mpg, col = "red", pch = 15)
 ```
 
 ![](gitR_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+``` r
+x <- c(1:100)
+```
+
+``` r
+plot(cars$speed, col = "blue", pch = 5, lwd = 3)
+```
+
+![](gitR_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
