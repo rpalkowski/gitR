@@ -32,7 +32,7 @@ You can also embed plots, for example:
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
 
-## First plot
+## First chunk
 
 ``` r
 plot(mtcars$mpg, col = "red", pch = 15)
@@ -40,10 +40,12 @@ plot(mtcars$mpg, col = "red", pch = 15)
 
 ![](gitR_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
 
-## Second plot
+## Second chunk
 
 ``` r
 plot(cars$speed, col = "blue", pch = 5, lwd = 3)
 ```
 
 ![](gitR_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+
+## Third chunk
